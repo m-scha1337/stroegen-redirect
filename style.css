@@ -27,7 +27,7 @@ div.message{
 	padding: 10px;
 	font-size: 18px;
 	text-align: center;
-	border-left: 2px solid;
+	/*border-left: 2px solid;*/
 }
 div.wrapper{
 	position: absolute;
